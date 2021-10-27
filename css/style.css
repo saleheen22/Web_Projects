@@ -1,0 +1,196 @@
+* { margin: 0px; padding: 0px; }
+header { border-bottom: 1px solid rgb(92, 65, 65); }
+.header-content {width: 90%;margin-left: 5%;/* padding-top: 15px; *//* padding-bottom: 15px; */overflow: hidden;}
+.logo { width: 20%; float: left; }
+.logo img { width: 50%; }
+nav {width: 30%;float: right;padding-top: 18px;}
+nav ul {list-style: none;overflow: hidden;}
+nav ul li {float: left;margin-right: 25px;font-size: 20px;text-transform: capitalize;}
+
+
+.content{
+
+width: 60%;
+
+margin-left: 20%;
+
+text-align: center;
+}
+.content h1{
+
+color: #007cde;
+
+font-size: 50px;
+
+text-align: center;
+
+margin-top: 50x;
+}
+.content img{
+    
+width: 80%;
+    
+margin-top: 30px;
+}
+.content p{
+    
+text-align: center;
+    
+/* font-size: 10px; */
+    
+font-size: 25px;
+    
+margin-top: 20px;
+}
+.content h1:first-child{
+    margin-top: 30px;
+    color:black
+}
+.main_content{
+
+overflow: hidden;
+}
+.left-content{
+
+width: 45%;
+
+float: left;
+}
+.right-content{
+
+float: right;
+
+width: 45%;
+
+margin-top: 0px;
+}
+.left-content h1{
+
+text-align: right;
+
+color: red !important;
+}
+.right-content h1{
+
+margin-top: 80px;
+}
+
+.feature{
+
+width: 90%;
+
+margin: auto;
+
+margin-top: 50px;
+
+overflow: hidden;
+
+margin-bottom: 50px;
+}
+.feature_one{
+
+width: 28%;
+
+float: left;
+
+text-align: center;
+
+background-color: #feebf0;
+
+/* padding-top: 40px; */
+
+padding: 50px 20px;
+
+height: 320px;
+}
+.feature_one img{
+
+width: 100%;
+}
+.feature_one h3{
+
+text-align: left;
+}
+.feature_one p{
+
+text-align: left;
+}
+.feature_two{
+
+width: 28%;
+
+float: left;
+
+margin-left: 2%;
+
+padding: 50px 20px;
+
+background-color: #EAF9F4;
+
+height: 320px;
+}
+.feature_two img{
+width: 100%;
+}
+.feature_two h3{
+text-align: left;
+
+}
+.feature_two p{
+    text-align: left;
+}
+.feature_three{
+
+width: 28%;
+
+float: right;
+
+padding: 50px 20px;
+
+background: #FFF8E8;
+
+height: 320px;
+
+/* margin: 0%; */
+}
+.feature_three img{
+    width: 100%;
+
+}
+.feature_three h3{
+    text-align: left;
+}
+.feature_three p{
+    text-align: left;
+}
+footer{
+
+background: #0364f4;
+
+text-align: center;
+
+margin: 5%;
+
+padding: 30px 0;
+}
+footer p {
+
+color: #fff;
+
+display: inline;
+}
+footer h5{
+
+color: #fff;
+
+font-size: 20px;
+
+letter-spacing: 3px;
+
+display: inline;
+
+margin: 0 15px;
+
+/* padding: 20px 0; */
+}
+
